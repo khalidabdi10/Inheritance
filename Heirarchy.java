@@ -72,7 +72,7 @@ public class Heirarchy {
         Phone myPhone = new Phone("2020", "Smartphone", "10.5inchs", "iphone", "512GB");
         // call their methods to illustrate how inheritance is functioning across the
         // different levels and types
-        obj1.displayPhoneInfo();
+
         obj1.displayComputerInfo();
         myLinux.displayInfo();
         myPhone.displayPhoneInfo();
