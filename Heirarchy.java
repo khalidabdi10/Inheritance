@@ -10,7 +10,7 @@ class Computer {
     }
 
     public void displayComputerInfo() {
-        System.out.println("computer Info:  -------------------------------------------------------------");
+        System.out.println("computer Info:  ---------------------------------------------------------------");
     }
 
     public void displayPhoneInfo() {
